@@ -1,4 +1,4 @@
-# HTML, CSS, JS
+# HTML, CSS
 ## 1. HTML
 ### Tag (There are two types of tag)
 + Metadata elements, including:  
@@ -97,4 +97,3 @@
 + Color and names in CSS.  
    Could be spicified using both number (RGB 255\*255*255) and name ( support 140 color names).
 
-## 3.Java script
