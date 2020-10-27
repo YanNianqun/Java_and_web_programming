@@ -64,6 +64,15 @@ Debug tools, print statement, run code by hand.
  + Specific.
  
  
+ ## Event-drive programming.
+ + Create Buttons with Divs
+  + Use an <input> element
+  + onclick event handler
+  + call javascript function.
+ 
+ ## Changing Pages Interactively
+ + to change a web page via Javascript, Must access HTML elements by code.
+ + eg: document.getElementById("demo").innerHTML = txt
  
  
 
