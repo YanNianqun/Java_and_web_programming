@@ -51,6 +51,22 @@ pixel.setGreen(newG);
 ```
 
 ## Conditional Execution
+if () {}
+
+## How to find bugs?
++ Observe a  Phenomenon, Ask a question, Gather Information and apply expert knownledge(on and on) 
+form a hypothesis, test hypothesis, accpet hypothesis.
++ How to gather information?
+Debug tools, print statement, run code by hand.
++ What is a good hypothesis?
+ + Testable, prediction about behaviour
+ + Actionable, can fix program if Ture.
+ + Specific.
+ 
+ 
+ 
+ 
+
 
 
 
