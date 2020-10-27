@@ -44,6 +44,8 @@
     + header tag: \<th>
     + table data tag: \<td>. Image, list or a variety of other things could be put into the \<td> tag.
 
+### <Canavas> HTML5
++ Used to draw graphics
 
 ## 2. Styling a web page with CSS
 
