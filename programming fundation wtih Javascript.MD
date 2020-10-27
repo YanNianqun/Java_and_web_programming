@@ -75,8 +75,9 @@ Debug tools, print statement, run code by hand.
  + eg: document.getElementById("demo").innerHTML = txt
  
  
-
-
+## Input and events
++ The HTML input tag is used to create an HTML element, like a button that gets input from the user and processes that input with JavaScript code.
++ 
 
 
 
