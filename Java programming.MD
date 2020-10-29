@@ -34,3 +34,4 @@ public class Point {  // A class is template specifies how to make objects.
     2. Can invoke methods, access field with dot.
     3. Can be null.
     4. == checks if arrows point at some objects. 
+  + Type conversion: impilicitly and explicitly.
