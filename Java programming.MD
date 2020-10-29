@@ -24,3 +24,13 @@ public class Point {  // A class is template specifies how to make objects.
 ```
 +  Method call is like function call except that we need to specifiy the object.
 + Type shows how to interprate and opetate on the data.
+  + There are two kinds of types in Java: Primitive and Objects.
+    Primitives: int, double, char, boolean, float, long, byte, short.
+    1. Value directly in a box.
+    2. Can't invoke a method on.
+    3. Can't be null (but can use a wrapper class)
+  + Object: String, Point, Shape, any class you write your self.
+    1. Reference (arrow)to object.
+    2. Can invoke methods, access field with dot.
+    3. Can be null.
+    4. == checks if arrows point at some objects. 
